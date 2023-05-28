@@ -1,6 +1,15 @@
 # TextOS DEMO
 Update Log
 
+- 0.1.25 : 
+- Install log screen added
+- rm-demouser command
+- Connections for operating system
+
+What you get:
+-  "rm-demouser"command
+- 1 Application (ta)
+
 - v0.1.0 :
 - Install screen added
 - Menu screen added 
@@ -12,3 +21,5 @@ NOTE: There is currently only the Installation Files. Everything else is still i
 What you get:
 - Install Screen
 - (BETA) Start Menu
+
+
