@@ -3,12 +3,13 @@ Update Log
 
 - 0.1.25 : 
 - Install log screen added
-- rm-demouser command
+- rm-demouser command added
 - Connections for operating system
 
 What you get:
--  "rm-demouser"command
 - 1 Application (ta)
+- Install Screen
+- Menu Application
 
 - v0.1.0 :
 - Install screen added
