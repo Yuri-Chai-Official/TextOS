@@ -1,6 +1,12 @@
 # TextOS DEMO
 Update Log
 
+- 0.1.5 DEMO: 
+- Video Game Emulator (BETA) added
+- Install Center added
+- /help command added
+- TextOS Packages added
+
 - 0.1.25 : 
 - Install log screen added
 - rm-demouser command added
